@@ -5,12 +5,12 @@ Note: This currently only works for M4C Ecu (KTM TBI models) log files generated
 This will convert all files in current directory from `log_<num>.bin` to `log_<nun>_m<map>.csv`
 
 Captures following fields (converts degC to degF):  
-RPM  
-throttlePosition  
-crankPressure  
-ignitionAdvance  
-powerValve  
-coolantTemp_F  
-ambientTemp_F  
-ambientPressure_kPa  
-batteryVoltage  
+- RPM  
+- throttlePosition  
+- crankPressure  
+- ignitionAdvance  
+- powerValve  
+- coolantTemp_F  
+- ambientTemp_F  
+- ambientPressure_kPa  
+- batteryVoltage  
